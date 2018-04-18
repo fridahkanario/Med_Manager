@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_event"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_event_black_24dp"
+        android:title="ADD NEW MEDICATION"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/refresh"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="REFRESH"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_autorenew_black_24dp"
+        android:title="LOGOUT"
+        app:showAsAction="never" />
+
+
+</menu>

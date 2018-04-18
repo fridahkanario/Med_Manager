@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "469680467585",
+    "firebase_url": "https://medmanager-f0680.firebaseio.com",
+    "project_id": "medmanager-f0680",
+    "storage_bucket": "medmanager-f0680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469680467585:android:f34f35f4eec2b40a",
+        "android_client_info": {
+          "package_name": "io.github.fridahkanario.med_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469680467585-49c30r8abtdi8ji1j156kjbbhlch80ih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.fridahkanario.med_manager",
+            "certificate_hash": "4286fdb04e5724a30811143ca7e127c0bad4435e"
+          }
+        },
+        {
+          "client_id": "469680467585-e6m49o1jn6hgn9acl47tlpp24s357kci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsu7yKQmMSOqISIDmqe-oiVn-GVemrWD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469680467585-e6m49o1jn6hgn9acl47tlpp24s357kci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
